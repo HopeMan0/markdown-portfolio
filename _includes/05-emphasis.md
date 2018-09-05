@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I have two eyes*
+_And two arms_
+
+**And two legs**
+__And one nose__
+
+_And **two** mouths_
