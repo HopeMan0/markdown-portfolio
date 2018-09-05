@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* NieR Automata
+* Persona
+* Fire Emblem
+  *Pokemon GO?????
