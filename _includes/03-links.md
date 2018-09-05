@@ -1,1 +1,1 @@
-[Phansite] (https://phansite.net/)
+[Phansite] (https://phansite.net)
