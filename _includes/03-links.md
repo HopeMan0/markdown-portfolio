@@ -1,1 +1,1 @@
-[Phansite] (https://phansite.net)
+[GitHub](http://github.com)
